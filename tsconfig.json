@@ -1,0 +1,7 @@
+{
+    // Compiled Javascript will be in latest version of javascript format
+    "compilerOptions": {
+        "target": "ESNext",
+        "outDir": "./dist"
+    }
+}
